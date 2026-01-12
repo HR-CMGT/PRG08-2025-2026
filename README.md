@@ -2,24 +2,28 @@
 
 Smart Technologies: web apps bouwen met large language models
 
-## Lesmateriaal
-
-⚠️ De lesinhoud en opdrachten vind je in Brightspace! In deze repository vind je een aantal code snippets die nodig of handig zijn voor de oefeningen.
-
 <Br><br><br>
 
 ## Programma
 
-| Les | Onderwerp | 
-|-----|-----------|
-| 1 | Kennismaking Taalmodellen |
-| 2 | Taalmodel in een web app |
-| 3 | Prompt engineering |
-| 4 | Structured Output |
-| 5 | Agents |
-| 6 | Agent applicatie |
-| 7 | Documenten lezen |
-| 8 | Chatbot afronden |
-| 9 | AI workflow |
+| Les | Onderwerp | Lesoefening | 
+|-----|-----------|-------------|
+| 1 | Kennismaking Taalmodellen | Zelf een taalmodel bouwen | 
+| 2 | Taalmodel in een web app | Node server bouwen. Chat interface bouwen |
+| 3 | Prompt engineering | System prompt, Context, Chat history |
+| 4 | Structured Output | Tokens bijhouden en werken met JSON | 
+| 5 | Agents | Wat is een Agent. Wat is tool calling. | 
+| 6 | Agent applicatie | Server en Client. Chat History. | 
+| 7 | Documenten lezen | Chatten met je eigen documenten. | 
+| 8 | Chatbot afronden | Agent met tools en documenten. Agent live zetten. Images sturen.| 
+| 9 | AI workflow | Chat History Database, Structured Output, MCP, Lokale AI, Evaluatie en Safety
 
 <Br><br><br>
+
+## Brightspace
+
+⚠️ De lesinhoud en opdrachten vind je in Brightspace!
+
+## Github
+
+In deze repository vind je code snippets voor de oefeningen.
